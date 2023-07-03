@@ -5,4 +5,5 @@ Interesting open source design, system architecture, hardware and algorithm co-d
 2. [Butterfly Accelerator for Efficient Transformer](https://github.com/SamsungLabs/Butterfly_Acc)
 3. [BERT Model on Silicon](https://github.com/alimpk/bert-on-silicon)
 4. [transformer-cpp-cpu](https://github.com/dianhsu/transformer-cpp-cpu)
+5. [NiuTrans.NMT](https://github.com/NiuTrans/NiuTrans.NMT)
 

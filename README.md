@@ -6,6 +6,12 @@ Interesting open source design, system architecture, hardware and algorithm co-d
 3. [BERT Model on Silicon](https://github.com/alimpk/bert-on-silicon)
 4. [transformer-cpp-cpu](https://github.com/dianhsu/transformer-cpp-cpu)
 5. [NiuTrans.NMT](https://github.com/NiuTrans/NiuTrans.NMT)
-6. [HLS_Transformer](https://github.com/zhengchen3/HLS_Transformer)
-7. [transformer_core](https://github.com/qyw123/transformer_core)
 
+
+HLS-FPGA 
+1. [HLS_Transformer](https://github.com/zhengchen3/HLS_Transformer)
+   c++ version of ViT
+2. [transformer_core](https://github.com/qyw123/transformer_core)
+   transformer in C++. Be used to learn vivado hls and the algorithm
+3. [transformer_hls](https://github.com/Exr0nProjects/transformer_hls)
+4. 
